@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" # "default", "air", "aqua", "contrast", "dark"
 # Site Settings
 locale                   : "ko-KR"
 title                    : "To the Expert"
-title_separator          : "&#124" # "-"
+title_separator          : "-" # "-"
 subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
 name                     : "SangYun Lee"
 description              : "코딩하면서 배우고 느낀점을 적어볼까 합니다."
@@ -27,7 +27,7 @@ repository               : "falconlee236/falconlee236.github.io" # GitHub userna
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "To the Expert Blog" # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true # true, false (default)
+# breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
