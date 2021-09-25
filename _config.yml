@@ -267,3 +267,4 @@ defaults:
       related: true
       toc: true
       comments: true
+      use_math: true
