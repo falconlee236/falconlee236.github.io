@@ -97,10 +97,10 @@ analytics:
     anonymize_ip         : # true, false (default)
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sangyun LEE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "ROKA"
   email            :
   links:
     - label: "Email"
@@ -259,6 +259,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidbar:
+        nav: "main"
       read_time: false
       comments: true
       share: true
