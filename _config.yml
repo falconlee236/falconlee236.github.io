@@ -266,3 +266,4 @@ defaults:
       share: true
       related: true
       toc: true
+      comments: true
