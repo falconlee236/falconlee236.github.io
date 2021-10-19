@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://falconlee236.github.io/sitemap.xml
